@@ -9,7 +9,10 @@ When I was working on the project one of the problems I ran into was when I chan
 
 Another issue I ran into was the navigation link as the "Search Engine Optimization" was not correctly set up so when clicking on it, nothing happened to fix this I added an id for it as it didn't have one before meaning it had nothing to link with.
 
-## Screenshots
+## Usage
+The website can be used by users by easily clicking on the navigation links at the top of the page which when doing so takes them to the correct part of the page displaying the information. See the image below.
+
+![An image of the completed webpage after changes have been made](/assets/images/webpage-after.png)
 
 ## Licesne 
 N/A
